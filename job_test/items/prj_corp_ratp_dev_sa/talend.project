@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_1E3I8T69EeqfuMV34U0DoQ" label="prj_corp_ratp_dev_sa" language="java" technicalLabel="PRJ_CORP_RATP_DEV_SA" author="_1E3wAD69EeqfuMV34U0DoQ" productVersion="Talend Cloud API Services Platform-8.0.1.20220421_1430-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://gitlab.com/ratpdev/datalake/talend/prj_corp_ratp_dev_sa.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_1JSV8D69EeqfuMV34U0DoQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_1E3wAD69EeqfuMV34U0DoQ" login="mariam.diallo@ratpdev.com" firstName="Mariam" lastName="DIALLO" type="DQ"/>
+  <TalendProperties:User xmi:id="_12eMED69EeqfuMV34U0DoQ" login="stephane.bizard@ratpdev.com" firstName="Stéphane" lastName="BIZARD" type="DQ"/>
+  <TalendProperties:User xmi:id="_CVDzsD6-EeqfuMV34U0DoQ" login="samuel.ramos@ratpdev.com" firstName="Samuel" lastName="Ramos" type="DQ"/>
+  <TalendProperties:User xmi:id="_CVDzsT6-EeqfuMV34U0DoQ" login="thomas.letellier@ratpdev.com" firstName="Thomas" lastName="Letellier" type="DQ"/>
+  <TalendProperties:User xmi:id="_zC453-eBEeqMeswv1QT7PQ" login="etienne.menuet@ratpdev.com" firstName="Etienne" lastName="Menuet" type="DQ"/>
+  <TalendProperties:User xmi:id="_SktjuY4pEeurxZLwhW-NRw" login="dany.kassa-moussadji@ratpdev.com" firstName="Dany" lastName="Kassa-Moussadji" type="DQ"/>
+  <TalendProperties:User xmi:id="_0lNgEKNREeuaH-sO1k4bbA" login="mohamed.mihoubi@ratpdev.com" firstName="Mohamed" lastName="Mihoubi" type="DQ"/>
+</xmi:XMI>

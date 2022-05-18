@@ -1,0 +1,29 @@
+{
+  "itemId" : "_Dz83EKHREeuxyb1GpbWmfw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "__IkHILinEeurYKXlOCLnbw",
+    "parameterList" : [ {
+      "id" : "__I9vxLinEeurYKXlOCLnbw",
+      "name" : "ora_ServiceName"
+    }, {
+      "id" : "__I9vwbinEeurYKXlOCLnbw",
+      "name" : "ora_Login"
+    }, {
+      "id" : "__I9vw7inEeurYKXlOCLnbw",
+      "name" : "ora_Password"
+    }, {
+      "id" : "__I9vwrinEeurYKXlOCLnbw",
+      "name" : "ora_AdditionalParams"
+    }, {
+      "id" : "__I9vwLinEeurYKXlOCLnbw",
+      "name" : "ora_Schema"
+    }, {
+      "id" : "__I9IsrinEeurYKXlOCLnbw",
+      "name" : "ora_Port"
+    }, {
+      "id" : "__I9IsbinEeurYKXlOCLnbw",
+      "name" : "ora_Server"
+    } ]
+  } ]
+}
